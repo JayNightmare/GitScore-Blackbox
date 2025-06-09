@@ -33,8 +33,8 @@ The scoring algorithm evaluates repositories based on:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/github-scorer.git
-cd github-scorer
+git clone https://github.com/yourusername/GitScore-Blackbox.git
+cd GitScore-Blackbox
 ```
 
 2. Install dependencies:

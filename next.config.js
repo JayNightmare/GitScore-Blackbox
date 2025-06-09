@@ -10,8 +10,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/github-scorer/' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/github-scorer' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/GitScore-Blackbox/' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/GitScore-Blackbox' : '',
   env: {
     GITHUB_TOKEN: process.env.GITHUB_TOKEN,
     MONGODB_URI: process.env.MONGODB_URI,
